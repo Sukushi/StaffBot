@@ -2,7 +2,7 @@ from private import *
 from deff import *
 
 from help import *
-from dm import *
+# from dm import *
 from koa import *
 from bye import *
 from love import *
